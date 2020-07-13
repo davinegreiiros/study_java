@@ -1,0 +1,14 @@
+package application;
+
+public class Funcionario {
+	
+	public String nome;
+	public double salario;
+	public double imposto = 1000.00;
+	
+	
+	public double salarioLiquido() {
+		return salario - imposto;
+	}
+	
+}

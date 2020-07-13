@@ -1,0 +1,18 @@
+package application;
+
+import exercicio_poo.Triangulo;
+
+public class Program {
+
+	public static void main(String[] args) {
+		
+		
+		Triangulo x,y;
+		x = new Triangulo();
+		y = new Triangulo();
+		
+		
+
+	}
+
+}

@@ -1,0 +1,9 @@
+package exercicio_aula_65;
+
+public class Produto {
+
+	public String nome;
+	public double preco;
+	public int qtd;
+	
+}
